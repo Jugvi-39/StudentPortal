@@ -5,15 +5,6 @@ The project is designed for **clarity, simplicity, and best practices**, making 
 
 ---
 
-## 🚀 Badges  
-
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![FontAwesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)  
-
----
 
 ## 🖥️ Tech Stack  
 
@@ -82,6 +73,7 @@ The project is designed for **clarity, simplicity, and best practices**, making 
    - Secure logout for both students & admins.  
 
 ---
+
 
 ## 🛠️ Setup Instructions  
 
